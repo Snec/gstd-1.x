@@ -21,7 +21,7 @@
 #define __GSTD_OBJECT_H__
 
 #include <glib-object.h>
-#include <gstd/gstd_return_codes.h>
+#include "gstd_return_codes.h"
 
 G_BEGIN_DECLS
 

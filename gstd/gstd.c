@@ -26,7 +26,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 
-#include "gstd.h"
+#include "gstd_session.h"
 
 #define GSTD_CLIENT_DEFAULT_PORT 5000
 

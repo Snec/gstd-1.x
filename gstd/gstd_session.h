@@ -171,9 +171,11 @@
 #define __GSTD_SESSION___
 
 #include <glib.h>
-#include <gstd/gstd_return_codes.h>
-#include <gstd/gstd_object.h>
-#include <gstd/gstd_pipeline.h>
+#include "gstd_return_codes.h"
+#include "gstd_object.h"
+#include "gstd_pipeline.h"
+
+#include <gst/gst.h>
 
 G_BEGIN_DECLS
 
